@@ -30,16 +30,16 @@ This project uses an **unclean and unstructured e-commerce dataset** comprising 
 
 ### Dataset Overview
 
-| Dataset Name                | Description                                                                                  |
-| --------------------------- | -------------------------------------------------------------------------------------------- |
-| EE- customers               | Customer-level attributes used to support **demand analysis and repeat purchase behaviour**  |
-| EE- dates                   | Calendar reference table for **seasonal, monthly, and time-based analysis**                  |
-| EE- inventory               | Warehouse-level stock details including **opening stock, closing stock, and reorder levels** |
-| EE- products                | Product-level details including **category, season, fabric, and launch date**                |
-| EE- promotions              | Promotional campaigns with **start and end dates**                                           |
-| EE- sales_transactions      | Transaction-level sales data used to analyse **SKU demand and sell-through performance**     |
-| EE- skus                    | SKU-level attributes such as **size, colour, MRP, cost price, and active status**            |
-| EE- warehouses              | Warehouse locations and fulfilment types                                                     |
+| Dataset Name                 | Description                                                                                  |
+| ---------------------------  | -------------------------------------------------------------------------------------------- |
+| EE- customers                | Customer-level attributes used to support **demand analysis and repeat purchase behaviour**  |
+| EE- dates                    | Calendar reference table for **seasonal, monthly, and time-based analysis**                  |
+| EE- inventory                | Warehouse-level stock details including **opening stock, closing stock, and reorder levels** |
+| EE- products                 | Product-level details including **category, season, fabric, and launch date**                |
+| EE- promotions               | Promotional campaigns with **start and end dates**                                           |
+| EE- sales_transactions       | Transaction-level sales data used to analyse **SKU demand and sell-through performance**     |
+| EE- skus                     | SKU-level attributes such as **size, colour, MRP, cost price, and active status**            |
+| EE- warehouses               | Warehouse locations and fulfilment types                                                     |
 
 
 ## Key Results & Insights
